@@ -1,0 +1,6 @@
+Tipo de Ordenação: ORDA
+Tamanho do vetor:  1000000
+Método:            MERGE
+Comparações:       18673494
+Movimentos         39902848
+Tempo:             0.809s
